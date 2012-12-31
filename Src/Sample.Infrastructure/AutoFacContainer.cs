@@ -14,8 +14,6 @@ namespace Sample.Infrastructure
         {
             var containerBuilder = new ContainerBuilder();
             containerBuilder = RegisterDependencies(containerBuilder);
-
-            containerBuilder.RegisterType<ExtensibleActionInvoker>().As<IActionInvoker>();
             containerBuilder.RegisterControllers(Assembly.GetExecutingAssembly());
             Container = containerBuilder.Build();
         }

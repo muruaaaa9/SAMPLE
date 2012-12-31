@@ -1,10 +1,11 @@
-﻿using System.ServiceModel;
+﻿
+
+using System.ServiceModel;
 using Autofac;
 using Sample.Model.Models;
 using Sample.Model.Models.Mapping;
 using Sample.Repository;
 using Sample.Repository.Interfaces;
-using Sample.Services.DataContract;
 
 namespace Sample.Infrastructure
 {

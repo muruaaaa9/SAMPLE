@@ -5,4 +5,6 @@
   <Module PersistentId="F09B87ED-C625-4974-8556-ECD2E5189E56" ModuleId="Sample.Service.Host" />
   <Module PersistentId="FC03C0B6-7673-4A29-8AF1-11A9F4F50283" ModuleId="Sample.Infrastructure" />
   <Module PersistentId="5DE02E3E-680A-4D74-BFCA-6CB5D5A4E535" ModuleId="Sample.Web" />
+  <Module PersistentId="B3609AE5-F3C5-434D-A70E-3B8CC4CBD136" ModuleId="Sample.Integration.Tests" />
+  <Module PersistentId="6F26CC82-9A94-4F50-B47C-9B1D109F53DF" ModuleId="Sample.Infrastructure_1" />
 </Modules>

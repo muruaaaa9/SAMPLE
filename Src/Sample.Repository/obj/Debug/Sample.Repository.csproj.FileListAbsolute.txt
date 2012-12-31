@@ -5,3 +5,6 @@ C:\Dev\SAMPLE\Src\Sample.Repository\bin\Debug\Sample.Model.pdb
 C:\Dev\SAMPLE\Src\Sample.Repository\obj\Debug\ResolveAssemblyReference.cache
 C:\Dev\SAMPLE\Src\Sample.Repository\obj\Debug\Sample.Repository.dll
 C:\Dev\SAMPLE\Src\Sample.Repository\obj\Debug\Sample.Repository.pdb
+C:\Dev\SAMPLE\Src\Sample.Repository\bin\Debug\Sample.Repository.dll.config
+C:\Dev\SAMPLE\Src\Sample.Repository\bin\Debug\EntityFramework.dll
+C:\Dev\SAMPLE\Src\Sample.Repository\bin\Debug\EntityFramework.xml
