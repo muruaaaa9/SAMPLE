@@ -1,0 +1,10 @@
+C:\Dev\SAMPLE\Src\Sample.Model\bin\Debug\Sample.Model.dll.config
+C:\Dev\SAMPLE\Src\Sample.Model\bin\Debug\Sample.Model.dll
+C:\Dev\SAMPLE\Src\Sample.Model\bin\Debug\Sample.Model.pdb
+C:\Dev\SAMPLE\Src\Sample.Model\bin\Debug\EntityFramework.dll
+C:\Dev\SAMPLE\Src\Sample.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\SAMPLE\Src\Sample.Model\bin\Debug\EntityFramework.xml
+C:\Dev\SAMPLE\Src\Sample.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\SAMPLE\Src\Sample.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SAMPLE\Src\Sample.Model\obj\Debug\Sample.Model.dll
+C:\Dev\SAMPLE\Src\Sample.Model\obj\Debug\Sample.Model.pdb

@@ -1,0 +1,14 @@
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Service.Host.exe.config
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Service.Host.exe
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Service.Host.pdb
+C:\Dev\SAMPLE\Src\Sample.Service.Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\SAMPLE\Src\Sample.Service.Host\obj\x86\Debug\Sample.Service.Host.exe
+C:\Dev\SAMPLE\Src\Sample.Service.Host\obj\x86\Debug\Sample.Service.Host.pdb
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Services.dll
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Model.dll
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Repository.dll
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\EntityFramework.dll
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Services.pdb
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Model.pdb
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\Sample.Repository.pdb
+C:\Dev\SAMPLE\Src\Sample.Service.Host\bin\Debug\EntityFramework.xml

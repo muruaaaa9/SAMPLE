@@ -1,0 +1,12 @@
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\Sample.Services.dll.config
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\Sample.Services.dll
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\Sample.Services.pdb
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\EntityFramework.dll
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\Sample.Model.dll
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\Sample.Repository.dll
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\Sample.Model.pdb
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\Sample.Repository.pdb
+C:\Dev\SAMPLE\Src\Sample.Services\bin\Debug\EntityFramework.xml
+C:\Dev\SAMPLE\Src\Sample.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SAMPLE\Src\Sample.Services\obj\Debug\Sample.Services.dll
+C:\Dev\SAMPLE\Src\Sample.Services\obj\Debug\Sample.Services.pdb

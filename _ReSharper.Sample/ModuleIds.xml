@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="EF9F6E8C-F61E-43A7-9A47-97F84F5FEDF3" ModuleId="Sample.Model" />
+  <Module PersistentId="948D9A0D-1C72-4429-A7A8-117665B87597" ModuleId="Sample.Services" />
+  <Module PersistentId="74062F44-01BA-42AF-ACB9-6DF569E441D1" ModuleId="Sample.Repository" />
+  <Module PersistentId="F09B87ED-C625-4974-8556-ECD2E5189E56" ModuleId="Sample.Service.Host" />
+  <Module PersistentId="FC03C0B6-7673-4A29-8AF1-11A9F4F50283" ModuleId="Sample.Infrastructure" />
+  <Module PersistentId="5DE02E3E-680A-4D74-BFCA-6CB5D5A4E535" ModuleId="Sample.Web" />
+</Modules>
